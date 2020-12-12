@@ -1,0 +1,7 @@
+export const YouTube = "https://www.youtube.com/channel/UCKZjf1GaOplAtPOs7wHDpVA"
+export const Instagram = "https://www.instagram.com/folkdevelopers/"
+export const LinkedIn =  "https://www.linkedin.com/company/folkdevelopers/"
+export const Facebook= "https://www.facebook.com/folkdevelopers"
+export const Medium = "https://medium.com/folkdevelopers"
+export const Telegram =  "https://t.me/folkdevelopers"
+export const Twitter =  "https://twitter.com/folkdevelopers"
